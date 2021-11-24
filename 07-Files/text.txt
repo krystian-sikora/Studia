@@ -1,0 +1,4 @@
+Name: Krystian
+Surname: Sikora
+University Name: Uniwersytet Ekonomiczny w Krakowie
+Field of study: Applied Informatics
